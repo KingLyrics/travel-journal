@@ -10,7 +10,12 @@ body{
 }
 
 img{
-  max-width: 100%;
+  width: 250px;
+  border-radius: 10px;
+}
+section{
+  max-width: 800px;
+  margin: 50px auto;
 }
 
 nav{
@@ -19,6 +24,39 @@ nav{
   color: white;
   padding: 2rem;
 }
+
+.row{
+  display: flex;
+}
+
+
+.info-block{
+  margin-left: 20px;
+  margin-top: 2rem;
+}
+
+.title{
+  display: flex;
+}
+
+a{
+  color: gray;
+}
+
+h3{
+  margin-right: 10px;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+.head{
+  margin-top: 0.98rem;
+}
+
+h1{
+  color: #2B283A;
+}
+
 
 @media screen and (min-width:768px) {
 /* Use for tablet screens */
