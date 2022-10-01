@@ -15,7 +15,7 @@ export default [
         googleMapsUrl: "",
         startDate: "16 Dec, 2014",
         endDate: "23 Dec, 2014",
-        description: "",
-        imageUrl: ""
+        description: "The Burj Khalifa, known as the Burj Dubai prior to its inauguration in 2010, is a skyscraper in Dubai, United Arab Emirates. ",
+        imageUrl: "./Images/Burjh1.jpg"
     }
 ]

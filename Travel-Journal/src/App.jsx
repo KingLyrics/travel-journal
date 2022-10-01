@@ -1,5 +1,7 @@
 import data from './data'
 import Navbar from './Components/Navbar'
+import Card from './Components/Card'
+
 
 function App() {
 
@@ -7,7 +9,9 @@ function App() {
     <div className='Container'>
 
      <Navbar/>
+     <Card/>
      
+
     </div>
   )
 }
