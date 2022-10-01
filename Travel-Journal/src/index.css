@@ -20,9 +20,12 @@ section{
 
 nav{
   background-color: #F55A5A;
-  text-align: center;
-  color: white;
+  text-align: center; 
   padding: 2rem;
+}
+
+nav h1{
+  color: white;
 }
 
 .row{
@@ -55,6 +58,15 @@ h3{
 
 h1{
   color: #2B283A;
+  font-size: 20px;
+}
+
+.dates{
+  margin-top: 2rem;
+}
+
+.description{
+  margin-top: 1rem;
 }
 
 
